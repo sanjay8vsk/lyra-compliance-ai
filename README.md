@@ -4,7 +4,7 @@ AI Compliance Copilot for Swedish SMEs.
 
 ## Overview
 
-Lyra Compliance AI helps Swedish startups and SMEs understand regulatory obligations, VAT requirements, employment regulations, corporate governance, and shareholder-related compliance through an AI-powered conversational interface.
+Lyra Compliance Gen AI helps Swedish startups and SMEs understand regulatory obligations, VAT requirements, employment regulations, corporate governance, and shareholder-related compliance through an AI-powered conversational interface.
 
 ## Features
 
